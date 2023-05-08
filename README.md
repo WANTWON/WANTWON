@@ -3,10 +3,11 @@
 
 <div align="center">
   
-## *Welcome to WHY Zone*
+### *Welcome to WHY Zone*
   
-  
-![다운로드](https://user-images.githubusercontent.com/106663427/236815274-bd6c2cb4-9038-481c-a554-ad8ff2466317.gif)
+![img](https://user-images.githubusercontent.com/106663427/236823632-f90d043d-671b-4812-bdf6-236130a26e14.gif)
+
+
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWANTWON&count_bg=%23EBABFF&title_bg=%23000000&icon=bilibili.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)]([https://hits.seeyoufarm.com](https://github.com/WANTWON))
   
@@ -20,7 +21,7 @@
   <img src="https://img.shields.io/badge/Notion-8B89CC?style=flat-square&logo=notion&logoColor=white"/>
   
   
-## *Git Status*
+### *Git Status*
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WANTWON&show_icons=true&theme=dracula) 
 
   </div>
