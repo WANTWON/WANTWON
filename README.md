@@ -1,12 +1,11 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=E6E0F8&height=200&section=header&text=WON%20HYE%20YEON&fontSize=80)
-
 <div align="center">
   
+![header](https://capsule-render.vercel.app/api?type=waving&color=E6E0F8&height=200&section=header&text=WON%20HYE%20YEON&fontSize=80)
+
+
 ### *Welcome to WHY Zone*
   
-![img](https://user-images.githubusercontent.com/106663427/236823632-f90d043d-671b-4812-bdf6-236130a26e14.gif)
-
+<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100"/>
   
   
 ### *🖥️Stacks*
@@ -22,12 +21,5 @@
 <br><br>
 
 
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WANTWON&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
- 
-  
-### *Git Status*
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WANTWON&show_icons=true&theme=dracula) 
 
   </div>
