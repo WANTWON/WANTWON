@@ -1,10 +1,4 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=E6E0F8&height=200&section=header&text=WON%20HYE%20YEON&fontSize=80)
-
-
-### *Welcome to WHY Zone*
-  
 <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100"/>
   
   
